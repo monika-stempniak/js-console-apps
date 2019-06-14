@@ -10,15 +10,15 @@ And run in a console:
 
 ### poker
 
-The program is showing random poker hand
+The program is showing random poker hand.
 
 ```node
 node deal.js
 ```
 
-# weighing scale
+### weighing scale
 
-There are 8 basketballs and 1 scale. 7 of them weigh the same. 1 of them has a different weight, (it's heavier or lighter). How do you find the odd ball with 2 weighs?
+There are 8 basketballs and 1 scale. 7 of them weigh the same. 1 of them has a different weight, (it's heavier or lighter). How do you find the odd ball with 2 weighs? The program is showing the way.
 
 Enter in console:
 
